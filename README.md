@@ -1,7 +1,9 @@
-# 💫 About Me:
-I am Anish Kumar,<br> a B.Tech student passionate about AI,<br> Python, and Machine Learning. <br>I love coding and learning new technologies.
-
-
+# 💫 About 
+I am a passionate B.Tech student at Vivekananda Global University, Jaipur, with a strong interest in Python programming, Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
+I enjoy building real-world projects, solving coding problems, and continuously learning modern technologies. My key skills include Python, Data Structures and Algorithms, Machine Learning, Git/GitHub, and problem-solving.
+I am currently focused on developing practical projects in AI, ML, and . I am also interested in cybersecurity awareness and emerging technologies.
+My goal is to grow as an AI/ML Engineer and Software Developer while contributing to innovative and impactful solutions.
+Always open to learning, collaboration, internships, and new opportunities.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanatni__anish__009) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anish  kumar) 
 
